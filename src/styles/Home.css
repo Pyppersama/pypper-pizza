@@ -94,3 +94,17 @@
     }
   }
   
+
+  @media only screen and (max-width: 480px) {
+    .headerContainer h1 {
+      font-size: 30px;
+      height: 20px;
+    }
+    .headerContainer p {
+      font-size: 20px;
+    }
+    .headerContainer button {
+      width: 140px;
+    }
+  }
+  

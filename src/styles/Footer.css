@@ -20,4 +20,30 @@
     margin-right: 20px;
     color: white;
   }
+  @media only screen and (max-width: 800px) {
+    .socialMedia svg {
+      font-size: 30px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .socialMedia{
+      margin-left: 16px;
+    }
+    .socialMedia svg {
+      font-size: 20px;
+    }
+    .footer p {
+      margin-right: 16px;
+      font-size: 0.9rem;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    .socialMedia{
+      margin-left: 12px;
+    }
+    .footer p {
+      margin-right: 12px;
+      font-size: 0.8rem;
+    }
+  }
   
