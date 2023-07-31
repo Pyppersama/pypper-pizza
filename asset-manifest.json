@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pypper-pizza/static/css/main.ae9bf700.css",
-    "main.js": "/pypper-pizza/static/js/main.a6a70f1b.js",
-    "static/js/787.2ac0939d.chunk.js": "/pypper-pizza/static/js/787.2ac0939d.chunk.js",
-    "static/media/pizzaLeft.jpg": "/pypper-pizza/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
-    "static/media/vegan.jpg": "/pypper-pizza/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
-    "static/media/pizza.jpeg": "/pypper-pizza/static/media/pizza.21a1098fa87e28d80f37.jpeg",
-    "static/media/multiplePizzas.jpeg": "/pypper-pizza/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
-    "static/media/pizzaLogo.png": "/pypper-pizza/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
-    "static/media/expensive.jpg": "/pypper-pizza/static/media/expensive.6449ceefce083d18dfef.jpg",
-    "static/media/pepperoni.jpg": "/pypper-pizza/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
-    "static/media/pineapple.jpg": "/pypper-pizza/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
-    "static/media/margherita.jpg": "/pypper-pizza/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
-    "static/media/pedrotechspecial.jpg": "/pypper-pizza/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
-    "index.html": "/pypper-pizza/index.html",
-    "main.ae9bf700.css.map": "/pypper-pizza/static/css/main.ae9bf700.css.map",
-    "main.a6a70f1b.js.map": "/pypper-pizza/static/js/main.a6a70f1b.js.map",
-    "787.2ac0939d.chunk.js.map": "/pypper-pizza/static/js/787.2ac0939d.chunk.js.map"
+    "main.css": "/github.io/pypper-pizza/static/css/main.00a9ea7b.css",
+    "main.js": "/github.io/pypper-pizza/static/js/main.a8dcc915.js",
+    "static/js/787.2ac0939d.chunk.js": "/github.io/pypper-pizza/static/js/787.2ac0939d.chunk.js",
+    "static/media/pizzaLeft.jpg": "/github.io/pypper-pizza/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/github.io/pypper-pizza/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/github.io/pypper-pizza/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/github.io/pypper-pizza/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/github.io/pypper-pizza/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/github.io/pypper-pizza/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/github.io/pypper-pizza/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/github.io/pypper-pizza/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/github.io/pypper-pizza/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/github.io/pypper-pizza/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/github.io/pypper-pizza/index.html",
+    "main.00a9ea7b.css.map": "/github.io/pypper-pizza/static/css/main.00a9ea7b.css.map",
+    "main.a8dcc915.js.map": "/github.io/pypper-pizza/static/js/main.a8dcc915.js.map",
+    "787.2ac0939d.chunk.js.map": "/github.io/pypper-pizza/static/js/787.2ac0939d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae9bf700.css",
-    "static/js/main.a6a70f1b.js"
+    "static/css/main.00a9ea7b.css",
+    "static/js/main.a8dcc915.js"
   ]
 }
